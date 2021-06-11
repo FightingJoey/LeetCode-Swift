@@ -6,6 +6,7 @@ def twoSum(nums, target):
         if hashTable.get(target - num) is not None:
             return [hashTable.get(target - num), i]
         hashTable[num] = i
+    return []
 
 result = twoSum([2,7,11,15], 9)
 print(result)
