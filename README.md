@@ -8,4 +8,8 @@ LeetCode算法题Swift实现
 | 0001 | Two Sum                                        | [两数之和](https://leetcode-cn.com/problems/two-sum)         | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0001) |
 | 0002 | Add Two Numbers                                | [两数相加](https://leetcode-cn.com/problems/add-two-numbers) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0002) |
 | 0003 | Longest Substring Without Repeating Characters | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0003) |
+| 0004 | Median of Two Sorted Arrays                    | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0004) |
+|      |                                                |                                                              |            |                                                              |
+|      |                                                |                                                              |            |                                                              |
+|      |                                                |                                                              |            |                                                              |
 
