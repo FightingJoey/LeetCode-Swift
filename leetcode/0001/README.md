@@ -42,7 +42,7 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
 }
 ```
 
-Python
+### Python
 
 ```python
 # -*- coding: utf-8 -*-
