@@ -98,7 +98,7 @@ The parsed integer is -91283472332.
 Since -91283472332 is less than the lower bound of the range [-231, 231 - 1], the final result is clamped to -231 = -2147483648.
 ```
 
-## [中文题目](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+## [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
 请你来实现一个 myAtoi(string s) 函数，使其能将字符串转换成一个 32 位有符号整数（类似 C/C++ 中的 atoi 函数）。
 

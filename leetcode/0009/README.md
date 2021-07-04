@@ -32,7 +32,7 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 Coud you solve it without converting the integer to a string?
 
-## [中文题目](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+## [回文数](https://leetcode-cn.com/problems/palindrome-number/)
 
 给你一个整数 x ，如果 x 是一个回文整数，返回 true ；否则，返回 false 。
 

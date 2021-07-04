@@ -66,7 +66,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 - `1 <= num <= 3999`
 
-## [中文题目](https://leetcode-cn.com/problems/integer-to-roman/)
+## [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman)
 
 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M。
 
