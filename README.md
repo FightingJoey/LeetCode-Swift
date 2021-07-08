@@ -31,7 +31,7 @@ LeetCode算法题Swift实现
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0024) |
 | 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0025) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0026) |
-|      |                                                              |                                                              |            |                                                              |
+| 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [移除元素](https://leetcode-cn.com/problems/remove-element)  | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0027) |
 |      |                                                              |                                                              |            |                                                              |
 |      |                                                              |                                                              |            |                                                              |
 
