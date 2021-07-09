@@ -32,6 +32,6 @@ LeetCode算法题Swift实现
 | 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0025) |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0026) |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [移除元素](https://leetcode-cn.com/problems/remove-element)  | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0027) |
-|      |                                                              |                                                              |            |                                                              |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0028) |
 |      |                                                              |                                                              |            |                                                              |
 
