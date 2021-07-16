@@ -2,10 +2,10 @@ func searchInsert(_ nums: [Int], _ target: Int) -> Int {
     if nums.count == 0 {
         return 0
     }
-    if target <= nums[0] {
+    if target < nums[0] {
         return 0
     }
-    if target >= nums[nums.count - 1] {
+    if target > nums[nums.count - 1] {
         return nums.count
     }
     var left = 0, right = nums.count - 1
