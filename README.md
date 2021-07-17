@@ -40,5 +40,5 @@ LeetCode算法题Swift实现
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0033) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0034) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0035) |
-|      |                                                              |                                                              |            |                                                              |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku)  | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0036) |
 
