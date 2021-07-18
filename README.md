@@ -41,4 +41,10 @@ LeetCode算法题Swift实现
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0034) |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0035) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku)  | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0036) |
+| 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [解数独](https://leetcode-cn.com/problems/sudoku-solver)     | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0037) |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
 
