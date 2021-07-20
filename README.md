@@ -43,7 +43,7 @@ LeetCode算法题Swift实现
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku)  | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0036) |
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [解数独](https://leetcode-cn.com/problems/sudoku-solver)     | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0037) |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | [外观数列](https://leetcode-cn.com/problems/count-and-say)   | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0038) |
-|      |                                                              |                                                              |            |                                                              |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [组合总和](https://leetcode-cn.com/problems/combination-sum) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0039) |
 |      |                                                              |                                                              |            |                                                              |
 |      |                                                              |                                                              |            |                                                              |
 |      |                                                              |                                                              |            |                                                              |
