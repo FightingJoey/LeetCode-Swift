@@ -47,7 +47,7 @@ LeetCode算法题Swift实现
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0040) |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0041) |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0042) |
-|      |                                                              |                                                              |            |                                                              |
+| 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0043) |
 |      |                                                              |                                                              |            |                                                              |
 |      |                                                              |                                                              |            |                                                              |
 
