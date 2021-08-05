@@ -49,5 +49,5 @@ LeetCode算法题Swift实现
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0042) |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0043) |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching) | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0044) |
-|      |                                                              |                                                              |            |                                                              |
+| 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0045) |
 
