@@ -52,7 +52,7 @@ LeetCode算法题Swift实现
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0045) |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations)   | [全排列](https://leetcode-cn.com/problems/permutations)      | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0046) |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [全排列 II](https://leetcode-cn.com/problems/permutations-ii) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0047) |
-|      |                                                              |                                                              |            |                                                              |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image)   | [旋转图像](https://leetcode-cn.com/problems/rotate-image)    | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0048) |
 |      |                                                              |                                                              |            |                                                              |
 |      |                                                              |                                                              |            |                                                              |
 
