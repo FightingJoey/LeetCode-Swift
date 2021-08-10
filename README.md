@@ -54,5 +54,5 @@ LeetCode算法题Swift实现
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [全排列 II](https://leetcode-cn.com/problems/permutations-ii) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0047) |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image)   | [旋转图像](https://leetcode-cn.com/problems/rotate-image)    | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0048) |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0049) |
-|      |                                                              |                                                              |            |                                                              |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n)            | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)         | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0050) |
 
