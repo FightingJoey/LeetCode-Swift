@@ -57,7 +57,7 @@ LeetCode算法题Swift实现
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n)            | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n)         | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0050) |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens/)          | [N 皇后](https://leetcode-cn.com/problems/n-queens/)         | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0051) |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii)     | [N 皇后II](https://leetcode-cn.com/problems/n-queens-ii/)    | Hard       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0052) |
-|      |                                                              |                                                              |            |                                                              |
-|      |                                                              |                                                              |            |                                                              |
-|      |                                                              |                                                              |            |                                                              |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0053) |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0054) |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game)         | [跳跃游戏](https://leetcode-cn.com/problems/jump-game)       | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0055) |
 
