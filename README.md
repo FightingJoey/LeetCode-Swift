@@ -60,4 +60,9 @@ LeetCode算法题Swift实现
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | Easy       | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0053) |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0054) |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game)         | [跳跃游戏](https://leetcode-cn.com/problems/jump-game)       | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0055) |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [合并区间](https://leetcode-cn.com/problems/merge-intervals) | Medium     | [GO](https://github.com/FightingJoey/LeetCode-Swift/tree/main/leetcode/0056) |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
+|      |                                                              |                                                              |            |                                                              |
 
